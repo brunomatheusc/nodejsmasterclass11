@@ -1,0 +1,16 @@
+{
+    "urls": [
+        {
+            "name": "Rocketseat",
+            "url": "http://rocketseat.com.br"
+        },
+        {
+            "name": "Google",
+            "url": "www.google.com"
+        },
+        {
+            "name": "Deal",
+            "url": "www.dealtechnologies.com"
+        }
+    ]
+}
